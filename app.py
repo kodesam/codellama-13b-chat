@@ -17,7 +17,9 @@ DESCRIPTION = """
 
 This Space demonstrates model [CodeLlama-13b-Instruct](https://huggingface.co/codellama/CodeLlama-13b-Instruct-hf) by Meta, a Code Llama model with 13B parameters fine-tuned for chat instructions and specialized on code tasks. Feel free to play with it, or duplicate to run generations without a queue! If you want to run your own service, you can also [deploy the model on Inference Endpoints](https://huggingface.co/inference-endpoints).
 
-🔎 For more details about the Code Llama family of models and how to use them with `transformers`, take a look [at our blog post](https://huggingface.co/blog/codellama).
+🔎 For more details about the Code Llama family of models and how to use them with `transformers`, take a look [at our blog post](https://huggingface.co/blog/codellama) or [the paper](https://huggingface.co/papers/2308.12950).
+
+🏃🏻 Check out our [Playground](https://huggingface.co/spaces/codellama/codellama-playground) for a super-fast code completion demo that leverages a streaming [inference endpoint](https://huggingface.co/inference-endpoints).
 
 """
 
