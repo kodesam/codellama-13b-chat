@@ -4,7 +4,7 @@ from typing import Iterator
 import torch
 from transformers import AutoConfig, AutoModelForCausalLM, AutoTokenizer, TextIteratorStreamer
 
-model_id = 'meta-llama/Llama-2-13b-chat-hf'
+model_id = 'codellama/CodeLlama-13b-Instruct-hf'
 
 if torch.cuda.is_available():
     config = AutoConfig.from_pretrained(model_id)
@@ -45,8 +45,8 @@ def run(message: str,
         chat_history: list[tuple[str, str]],
         system_prompt: str,
         max_new_tokens: int = 1024,
-        temperature: float = 0.8,
-        top_p: float = 0.95,
+        temperature: float = 0.1,
+        top_p: float = 0.9,
         top_k: int = 50) -> Iterator[str]:
     prompt = get_prompt(message, chat_history, system_prompt)
     inputs = tokenizer([prompt], return_tensors='pt', add_special_tokens=False).to('cuda')
