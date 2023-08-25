@@ -1,9 +1,9 @@
-# Llama 2 Acceptable Use Policy
+# Llama Code Acceptable Use Policy
 
-Meta is committed to promoting safe and fair use of its tools and features, including Llama 2. If you access or use Llama 2, you agree to this Acceptable Use Policy (“Policy”). The most recent copy of this policy can be found at [ai.meta.com/llama/use-policy](http://ai.meta.com/llama/use-policy).
+Meta is committed to promoting safe and fair use of its tools and features, including Llama Code. If you access or use Llama Code, you agree to this Acceptable Use Policy (“Policy”). The most recent copy of this policy can be found at [ai.meta.com/llama/use-policy](http://ai.meta.com/llama/use-policy).
 
 ## Prohibited Uses
-We want everyone to use Llama 2 safely and responsibly. You agree you will not use, or allow others to use, Llama 2 to: 
+We want everyone to use Llama Code safely and responsibly. You agree you will not use, or allow others to use, Llama Code to: 
 
 1. Violate the law or others’ rights, including to:
     1. Engage in, promote, generate, contribute to, encourage, plan, incite, or further illegal or unlawful activity or content, such as: 
@@ -22,7 +22,7 @@ We want everyone to use Llama 2 safely and responsibly. You agree you will not u
 
 
 
-2. Engage in, promote, incite, facilitate, or assist in the planning or development of activities that present a risk of death or bodily harm to individuals, including use of Llama 2 related to the following:
+2. Engage in, promote, incite, facilitate, or assist in the planning or development of activities that present a risk of death or bodily harm to individuals, including use of Llama Code related to the following:
     1. Military, warfare, nuclear industries or applications, espionage, use for materials or activities that are subject to the International Traffic Arms Regulations (ITAR) maintained by the United States Department of State
     2. Guns and illegal weapons (including weapon development)
     3. Illegal drugs and regulated/controlled substances
@@ -32,12 +32,12 @@ We want everyone to use Llama 2 safely and responsibly. You agree you will not u
 
 
 
-3. Intentionally deceive or mislead others, including use of Llama 2 related to the following:
+3. Intentionally deceive or mislead others, including use of Llama Code related to the following:
     1. Generating, promoting, or furthering fraud or the creation or promotion of disinformation
     2. Generating, promoting, or furthering defamatory content, including the creation of defamatory statements, images, or other content
     3. Generating, promoting, or further distributing spam
     4. Impersonating another individual without consent, authorization, or legal right
-    5. Representing that the use of Llama 2 or outputs are human-generated
+    5. Representing that the use of Llama Code or outputs are human-generated
     6. Generating or facilitating false online engagement, including fake reviews and other means of fake online engagement 
 4. Fail to appropriately disclose to end users any known dangers of your AI system 
 
