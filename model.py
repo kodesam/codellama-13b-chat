@@ -14,7 +14,8 @@ if torch.cuda.is_available():
         config=config,
         torch_dtype=torch.float16,
         load_in_4bit=True,
-        device_map='auto'
+        device_map='auto',
+        use_safetensors=False,
     )
 else:
     model = None
