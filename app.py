@@ -21,6 +21,8 @@ This Space demonstrates model [CodeLlama-13b-Instruct](https://huggingface.co/co
 
 🏃🏻 Check out our [Playground](https://huggingface.co/spaces/codellama/codellama-playground) for a super-fast code completion demo that leverages a streaming [inference endpoint](https://huggingface.co/inference-endpoints).
 
+💪 For a chat demo of the largest Code Llama model (34B parameters), you can [select Code Llama in Hugging Chat!](https://huggingface.co/chat/)
+
 """
 
 LICENSE = """
