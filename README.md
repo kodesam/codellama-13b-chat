@@ -1,5 +1,5 @@
 ---
-title: Llama 2 13b Chat
+title: Code Llama 13B Chat
 emoji: 🦙
 colorFrom: indigo
 colorTo: pink
